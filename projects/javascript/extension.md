@@ -3,6 +3,7 @@
 Name: Ulas Onat Alakent
 UNI: ua2182
 
+- Repo Link: [link](https://github.com/ulasonat/prime-video-plus)
 
 ## Extension for Prime Video
 - My goal is to create an extension on Google Chrome for Prime Video that will translate a word from one language to another when clicked on it. There's an extension that does this for Netflix, but Prime Video users could also benefit from that.
